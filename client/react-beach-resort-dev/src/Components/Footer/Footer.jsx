@@ -5,14 +5,15 @@ export default function Footer() {
 
   return (
     <footer className="footer">
-      <h2>GORecycle | Paper</h2>
+      <h2>GORecycle | Paper </h2>
+      <h2 color="white">Develop-hers | Suzan & Martina</h2>
       <p>
         &copy; <span>{year}</span> GoRecyclePapers- All Rights 
         Reserved {" "}
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.facebook.com/SamiurRahmanMukul"
+          href=""
         >
           
         </a>

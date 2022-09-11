@@ -42,7 +42,8 @@ export default class Navbar extends Component {
               <Link to="/">Home</Link>
             </li>
             <li>
-              <Link to="/login">Login</Link>
+             
+              <a href="https://suzandsouza.github.io/login-page1/"target="_blank">Login/SignUp</a>
             </li>
             <li>
               <Link to="/rooms">Products</Link>

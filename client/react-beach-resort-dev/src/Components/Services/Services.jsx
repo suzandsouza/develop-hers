@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 // imports react-icons
-import { FaHiking, FaShuttleVan, FaBeer, FaShoppingBag, FaWineBottle, FaBook, FaBookOpen } from "react-icons/fa";
+import { FaHiking, FaShuttleVan, FaBeer, FaShoppingBag, FaWineBottle, FaBook, FaBookOpen, FaTrophy, FaRecycle, FaPeopleCarry, FaDonate } from "react-icons/fa";
 
 // imports components
 import Title from "../Title/Title";
@@ -10,28 +10,34 @@ export default class Services extends Component {
   state = {
     services: [
       {
-        icon: <FaShoppingBag />,
-        title: "Paper Hand bags",
+        icon: <FaDonate />,
+        title: "Login to Donate",
         info:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores est eaque error provident unde eligendi.",
+          "Let us know when you want your raddiwala to collect your books.",
       },
       {
-        icon: <FaWineBottle />,
-        title: "Water Bottles",
+        icon: <FaPeopleCarry />,
+        title: "Raddiwala Notification & Collection",
         info:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores est eaque error provident unde eligendi.",
+          "We will notify the raddiwala near you and they will collect it at your desired time & location",
+      },
+      // {
+      //   icon: <FaBookOpen />,
+      //   title: "Book Collection",
+      //   //info:
+      //     // "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores est eaque error provident unde eligendi.",
+      // },
+      {
+        icon: <FaRecycle />,
+        title: "book recycling",
+        info:
+          "Your donateed books are sent to small businesses which will totally produce a transformed version of your books into useful products!",
       },
       {
-        icon: <FaBookOpen />,
-        title: "Scrap Books",
+        icon: <FaTrophy />,
+        title: "Earn rewards",
         info:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores est eaque error provident unde eligendi.",
-      },
-      {
-        icon: <FaBeer />,
-        title: "storages beer",
-        info:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores est eaque error provident unde eligendi.",
+          "Whats for you? The rewards that you earn can help you purchase these items at a good discounted rate",
       },
     ],
   };

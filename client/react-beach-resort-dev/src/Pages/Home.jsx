@@ -15,9 +15,11 @@ function Home() {
           title="DONATE PAPERS"
           subtitle="Gain profit and win exciting products"
         >
-          <Link to="/rooms" className="btn-primary">
+          {/* <Link to="/rooms" className="btn-primary">
            Login
-          </Link>
+          </Link> */}
+          <a href="https://suzandsouza.github.io/login-page1/"className="btn-primary">LOGIN AS USER</a><br /><br />
+          <a href="https://suzandsouza.github.io/login-page1/"className="btn-primary">LOGIN AS USER</a>
         </Banner>
       </Hero>
       <Services />
