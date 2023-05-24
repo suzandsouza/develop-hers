@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/develop-hers/static/css/main.5deeb0d7.chunk.css",
-    "main.js": "/develop-hers/static/js/main.aa2dc211.chunk.js",
-    "main.js.map": "/develop-hers/static/js/main.aa2dc211.chunk.js.map",
+    "main.css": "/develop-hers/static/css/main.a071ea8d.chunk.css",
+    "main.js": "/develop-hers/static/js/main.6904f1c5.chunk.js",
+    "main.js.map": "/develop-hers/static/js/main.6904f1c5.chunk.js.map",
     "runtime-main.js": "/develop-hers/static/js/runtime-main.531879cb.js",
     "runtime-main.js.map": "/develop-hers/static/js/runtime-main.531879cb.js.map",
     "static/js/2.06841a03.chunk.js": "/develop-hers/static/js/2.06841a03.chunk.js",
@@ -10,15 +10,15 @@
     "static/js/3.099f07bb.chunk.js": "/develop-hers/static/js/3.099f07bb.chunk.js",
     "static/js/3.099f07bb.chunk.js.map": "/develop-hers/static/js/3.099f07bb.chunk.js.map",
     "index.html": "/develop-hers/index.html",
-    "static/css/main.5deeb0d7.chunk.css.map": "/develop-hers/static/css/main.5deeb0d7.chunk.css.map",
+    "static/css/main.a071ea8d.chunk.css.map": "/develop-hers/static/css/main.a071ea8d.chunk.css.map",
     "static/js/2.06841a03.chunk.js.LICENSE.txt": "/develop-hers/static/js/2.06841a03.chunk.js.LICENSE.txt",
     "static/media/details-1.c4851740.jpeg": "/develop-hers/static/media/details-1.c4851740.jpeg",
-    "static/media/flower-vase.d0f8e2b2.jpg": "/develop-hers/static/media/flower-vase.d0f8e2b2.jpg",
+    "static/media/flower-vase.7ba0295d.jpg": "/develop-hers/static/media/flower-vase.7ba0295d.jpg",
     "static/media/loading-arrow.dd29210f.gif": "/develop-hers/static/media/loading-arrow.dd29210f.gif",
     "static/media/logo.87947b58.svg": "/develop-hers/static/media/logo.87947b58.svg",
-    "static/media/paper-basket2.c18eb2e2.jpg": "/develop-hers/static/media/paper-basket2.c18eb2e2.jpg",
+    "static/media/paper-basket2.4dc5ec94.jpg": "/develop-hers/static/media/paper-basket2.4dc5ec94.jpg",
     "static/media/paper-recycling.6503922c.jpg": "/develop-hers/static/media/paper-recycling.6503922c.jpg",
-    "static/media/paper-towel.5fe624a2.jpg": "/develop-hers/static/media/paper-towel.5fe624a2.jpg",
+    "static/media/paper-towel.9a21e621.jpg": "/develop-hers/static/media/paper-towel.9a21e621.jpg",
     "static/media/App.css": "/develop-hers/static/media/room-2.38c4fb7d.jpeg",
     "static/media/room-10.3f431c42.jpeg": "/develop-hers/static/media/room-10.3f431c42.jpeg",
     "static/media/room-3.4a5a70b1.jpeg": "/develop-hers/static/media/room-3.4a5a70b1.jpeg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.531879cb.js",
     "static/js/2.06841a03.chunk.js",
-    "static/css/main.5deeb0d7.chunk.css",
-    "static/js/main.aa2dc211.chunk.js"
+    "static/css/main.a071ea8d.chunk.css",
+    "static/js/main.6904f1c5.chunk.js"
   ]
 }
