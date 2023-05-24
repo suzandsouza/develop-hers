@@ -12,7 +12,7 @@ function Home() {
     <>
       <Hero>
         <Banner
-          title="DONATE PAPERS"
+          title="DONATE E-WASTE"
           subtitle="Gain profit and win exciting products"
         >
           {/* <Link to="/rooms" className="btn-primary">

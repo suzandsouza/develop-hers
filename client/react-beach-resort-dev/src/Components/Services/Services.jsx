@@ -29,9 +29,9 @@ export default class Services extends Component {
       // },
       {
         icon: <FaRecycle />,
-        title: "book recycling",
+        title: "Item recycling",
         info:
-          "Your donateed books are sent to small businesses which will totally produce a transformed version of your books into useful products!",
+          "Your donateed electronic articles are sent to which will totally produce a transformed version of your books into useful products!",
       },
       {
         icon: <FaTrophy />,

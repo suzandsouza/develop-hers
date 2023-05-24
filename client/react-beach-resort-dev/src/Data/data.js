@@ -427,7 +427,7 @@ const data = [
       id: "8",
     },
     fields: {
-      name: "Paper towels",
+      name: "Exchange phone",
       slug: "double-deluxe",
       type: "double",
       price: 400,
@@ -655,7 +655,7 @@ const data = [
       id: "12",
     },
     fields: {
-      name: "flower vase",
+      name: "Phone show piece",
       slug: "family-deluxe",
       type: "family",
       price: 500,
@@ -713,7 +713,7 @@ const data = [
       id: "13",
     },
     fields: {
-      name: "paper basket",
+      name: "Wind Spinner",
       slug: "presidential-room",
       type: "presidential",
       price: 600,
